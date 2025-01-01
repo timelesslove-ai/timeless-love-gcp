@@ -1,0 +1,5 @@
+env/
+_int/
+**/*.env
+yarn.lock
+**/scripts/
